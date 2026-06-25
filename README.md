@@ -18,9 +18,9 @@ Currently geeking out in open source software projects, working on agents and bu
 
 ## Start Here
 
-- <img src="https://nextpad.org/assets/images/icons/npp_128px_light.png" width="20" align="top"> **[Nextpad++](https://nextpad.org/)** (100K+ downloads) — the first full native macOS port of Notepad++
-- <img src="https://nextpad.org/assets/images/icons/nzip_128px_light.png" width="20" align="top"> **[NextZip](https://nextpad.org/#nextzip)** — native 7-Zip-style archiver and WinZip alternative for Mac
-- <img src="https://nextpad.org/assets/images/icons/beads_128px_light.png" width="20" align="top"> **[Beads Viewer](https://nextpad.org/#beads)** — native issue & task tracker for multi-agent AI systems
+<img src="https://nextpad.org/assets/images/icons/npp_128px_light.png" width="20" align="top"> **[Nextpad++](https://nextpad.org/)** (100K+ downloads) — the first full native macOS port of Notepad++<br>
+<img src="https://nextpad.org/assets/images/icons/nzip_128px_light.png" width="20" align="top"> **[NextZip](https://nextpad.org/#nextzip)** — native 7-Zip-style archiver and WinZip alternative for Mac<br>
+<img src="https://nextpad.org/assets/images/icons/beads_128px_light.png" width="20" align="top"> **[Beads Viewer](https://nextpad.org/#beads)** — native issue & task tracker for multi-agent AI systems<p>
 
 ### GitHub
 - <img src="https://nextpad.org/assets/images/icons/npp_128px_light.png" width="20" align="top"> **[Nextpad++](https://github.com/nextpad-plus-plus/nextpad-plus-plus-macos)** — native Notepad++ port: Scintilla engine, 80+ languages, plugins, Universal Binary, signed & notarized
