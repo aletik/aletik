@@ -2,7 +2,7 @@
 
 🛠️ **macOS-native app developer** | 🟢 **Creator of Nextpad++ for Mac** | 🍎 **Notepad++ → macOS**
 
-Currently geeking out in open source software projects and building fast, native Mac apps.
+Currently geeking out in open source software projects, working on agents and building fast, native Mac apps.
 
 ![Objective-C++](https://img.shields.io/badge/-Objective--C++-438EFF?style=flat-square&logo=apple&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
