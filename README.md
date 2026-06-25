@@ -18,17 +18,17 @@ Currently geeking out in open source software projects, working on agents and bu
 
 ## Start Here
 
-<img src="https://nextpad.org/assets/images/icons/npp_128px_light.png" width="16" align="middle"> **[Nextpad++](https://nextpad.org/)** (100K+ downloads) — the first full native macOS port of Notepad++<br>
-<img src="https://nextpad.org/assets/images/icons/nzip_128px_light.png" width="16" align="middle"> **[NextZip](https://nextpad.org/#nextzip)** — native 7-Zip-style archiver and WinZip alternative for Mac<br>
-<img src="https://nextpad.org/assets/images/icons/beads_128px_light.png" width="16" align="middle"> **[Beads Viewer](https://nextpad.org/#beads)** — native issue & task tracker for multi-agent AI systems<p>
+<img src="https://nextpad.org/assets/images/icons/npp_128px_light.png" width="20" align="top"> **[Nextpad++](https://nextpad.org/)** (100K+ downloads) — the first full native macOS port of Notepad++<br>
+<img src="https://nextpad.org/assets/images/icons/nzip_128px_light.png" width="20" align="top"> **[NextZip](https://nextpad.org/#nextzip)** — native 7-Zip-style archiver and WinZip alternative for Mac<br>
+<img src="https://nextpad.org/assets/images/icons/beads_128px_light.png" width="20" align="top"> **[Beads Viewer](https://nextpad.org/#beads)** — native issue & task tracker for multi-agent AI systems<p>
 
 ### GitHub
-- <img src="https://nextpad.org/assets/images/icons/npp_128px_light.png" width="16" align="middle"> **[Nextpad++](https://github.com/nextpad-plus-plus/nextpad-plus-plus-macos)** — native Notepad++ port: Scintilla engine, 80+ languages, plugins, Universal Binary, signed & notarized
-- <img src="https://nextpad.org/assets/images/icons/nzip_128px_light.png" width="16" align="middle"> **[NextZip](https://github.com/nextpad-plus-plus-plugins/NextZip.macos)** — 7-Zip-powered archive manager for macOS (ZIP, 7z, TAR…)
-- <img src="https://nextpad.org/assets/images/icons/beads_128px_light.png" width="16" align="middle"> **[Beads Viewer](https://github.com/nextpad-plus-plus/NppBeads)** — view, edit and sync Beads JSONL files and Dolt databases for multi-agent AI
+<img src="https://nextpad.org/assets/images/icons/npp_128px_light.png" width="20" align="top"> **[Nextpad++](https://github.com/nextpad-plus-plus/nextpad-plus-plus-macos)** — native Notepad++ port: Scintilla engine, 80+ languages, plugins, Universal Binary, signed & notarized<br>
+<img src="https://nextpad.org/assets/images/icons/nzip_128px_light.png" width="20" align="top"> **[NextZip](https://github.com/nextpad-plus-plus-plugins/NextZip.macos)** — 7-Zip-powered archive manager for macOS (ZIP, 7z, TAR…)<br>
+<img src="https://nextpad.org/assets/images/icons/beads_128px_light.png" width="20" align="top"> **[Beads Viewer](https://github.com/nextpad-plus-plus/NppBeads)** — view, edit and sync Beads JSONL files and Dolt databases for multi-agent AI<br>
 
 ### Plugins Ecosystem
-- <img src="https://nextpad.org/assets/images/plugins.png" width="16" align="middle"> **[Plugin List](https://github.com/nextpad-plus-plus/nppPluginList)** — the macOS plugin registry for Nextpad++
+<img src="https://nextpad.org/assets/images/plugins.png" width="20" align="top"> **[Plugin List](https://github.com/nextpad-plus-plus/nppPluginList)** — the macOS plugin registry for Nextpad++
 
 ## Stats
 
