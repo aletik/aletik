@@ -28,7 +28,7 @@ Currently geeking out in open source software projects, working on agents and bu
 <img src="https://nextpad.org/assets/images/icons/beads_128px_light.png" width="20" align="top"> **[Beads Viewer](https://github.com/nextpad-plus-plus/NppBeads)** — view, edit and sync Beads JSONL files and Dolt databases for multi-agent AI<br>
 
 ### Plugins Ecosystem
-<img src="https://nextpad.org/assets/images/plugins.png" width="20" align="top"> **[Plugin List](https://github.com/nextpad-plus-plus/nppPluginList)** — the macOS plugin registry for Nextpad++
+<img src="https://nextpad.org/assets/images/icon_plugins.png" width="20" align="top"> **[Plugin List](https://github.com/nextpad-plus-plus/nppPluginList)** — the macOS plugin registry for Nextpad++
 
 ## Stats
 
