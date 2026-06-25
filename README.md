@@ -40,6 +40,7 @@ Currently geeking out in open source software projects, working on agents and bu
   <img src="github-stats.svg" alt="Andrew Letov — by the numbers" width="500" />
 </picture>
 
+
 ## Find me
 
 [![nextpad.org](https://img.shields.io/badge/nextpad.org-2b2b2b?style=flat-square&logo=googlechrome&logoColor=white)](https://nextpad.org)
