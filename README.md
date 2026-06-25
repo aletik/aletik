@@ -18,16 +18,16 @@ Currently geeking out in open source software projects, working on agents and bu
 
 ## Start Here
 
-- 📝 **[Nextpad++ for Mac](https://nextpad.org/)** (100K+ downloads) — the first full native macOS port of Notepad++
-- 🗜️ **[NextZip](https://nextpad.org/nextzip/)** — native 7-Zip-style archiver and WinZip alternative for Mac
-- 🔮 **[Beads Viewer](https://nextpad.org/beads/)** — native issue & task tracker for multi-agent AI systems
+- <img src="https://nextpad.org/assets/images/icons/npp_128px_light.png" width="20" align="top"> **[Nextpad++ for Mac](https://nextpad.org/)** (100K+ downloads) — the first full native macOS port of Notepad++
+- <img src="https://nextpad.org/assets/images/icons/nzip_128px_light.png" width="20" align="top"> **[NextZip](https://nextpad.org/nextzip/)** — native 7-Zip-style archiver and WinZip alternative for Mac
+- <img src="https://nextpad.org/assets/images/icons/beads_128px_light.png" width="20" align="top"> **[Beads Viewer](https://nextpad.org/beads/)** — native issue & task tracker for multi-agent AI systems
 
 ## Projects
 
 ### macOS Apps
-- 📝 **[Nextpad++](https://github.com/nextpad-plus-plus/nextpad-plus-plus-macos)** — native Notepad++ port: Scintilla engine, 80+ languages, plugins, Universal Binary, signed & notarized
-- 🗜️ **[NextZip](https://github.com/nextpad-plus-plus-plugins/NextZip.macos)** — 7-Zip-powered archive manager for macOS (ZIP, 7z, TAR…)
-- 🔮 **[Beads Viewer](https://github.com/nextpad-plus-plus/NppBeads)** — view, edit and sync Beads JSONL files and Dolt databases for multi-agent AI
+- <img src="https://nextpad.org/assets/images/icons/npp_128px_light.png" width="20" align="top"> **[Nextpad++](https://github.com/nextpad-plus-plus/nextpad-plus-plus-macos)** — native Notepad++ port: Scintilla engine, 80+ languages, plugins, Universal Binary, signed & notarized
+- <img src="https://nextpad.org/assets/images/icons/nzip_128px_light.png" width="20" align="top"> **[NextZip](https://github.com/nextpad-plus-plus-plugins/NextZip.macos)** — 7-Zip-powered archive manager for macOS (ZIP, 7z, TAR…)
+- <img src="https://nextpad.org/assets/images/icons/beads_128px_light.png" width="20" align="top"> **[Beads Viewer](https://github.com/nextpad-plus-plus/NppBeads)** — view, edit and sync Beads JSONL files and Dolt databases for multi-agent AI
 
 ### Plugins & Ecosystem
 - 🧩 **[Plugin List](https://github.com/nextpad-plus-plus/nppPluginList)** — the macOS plugin registry for Nextpad++
@@ -39,7 +39,6 @@ Currently geeking out in open source software projects, working on agents and bu
   <source media="(prefers-color-scheme: dark)" srcset="github-stats-dark.svg" />
   <img src="github-stats.svg" alt="Andrew Letov — by the numbers" width="500" />
 </picture>
-
 
 ## Find me
 
