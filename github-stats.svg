@@ -34,7 +34,7 @@
 
   <circle cx="292" cy="150" r="4" fill="#cf222e"/>
   <text x="306" y="155" class="label">Contributions (1yr)</text>
-  <text x="476" y="155" class="value" text-anchor="end">~1,000</text>
+  <text x="476" y="155" class="value" text-anchor="end">1,107</text>
 
   <text x="28" y="187" class="foot">Updated June 2026 · downloads across all Nextpad++ releases (incl. removed)</text>
 </svg>
