@@ -1,6 +1,6 @@
 # Hi, I'm Andrew.
 
-**macOS-native app developer** | **Creator of Nextpad++ for Mac** | **Notepad++ → macOS**
+**macOS-native and Linux app developer** | **Creator of Nextpad++ for Mac and Linux** 
 
 Currently geeking out in open source software projects, working on agents and building fast, native Mac apps.
 
