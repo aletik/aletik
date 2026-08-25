@@ -2,7 +2,7 @@
 
 **macOS-native and Linux app developer** | **Creator of Nextpad++ for Mac and Linux** 
 
-Currently geeking out in open source software projects, working on agents and building fast, native Mac apps.
+Currently geeking out in open source software projects, working on agents and building fast, native Mac and Linux apps.
 
 ![Objective-C++](https://img.shields.io/badge/-Objective--C++-438EFF?style=flat-square&logo=apple&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
@@ -29,7 +29,7 @@ Currently geeking out in open source software projects, working on agents and bu
 **[Beads Viewer](https://github.com/nextpad-plus-plus/NppBeads)** — view, edit and sync Beads JSONL files and Dolt databases for multi-agent AI<br>
 
 ### Plugins Ecosystem (macOS and Linux)
-**[Plugin List](https://github.com/nextpad-plus-plus-plugins)** — the macOS and Linux plugin registry for Nextpad++
+**[Plugin List](https://github.com/nextpad-plus-plus-plugins)** — the macOS and Linux plugin registry for Nextpad++<br>
 **[Plugin List](https://nextpad.org/plugins/)** — the macOS and Linux plugin registry for Nextpad++
 
 ## Stats
