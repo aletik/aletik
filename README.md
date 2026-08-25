@@ -29,8 +29,8 @@ Currently geeking out in open source software projects, working on agents and bu
 **[Beads Viewer](https://github.com/nextpad-plus-plus/NppBeads)** — view, edit and sync Beads JSONL files and Dolt databases for multi-agent AI<br>
 
 ### Plugins Ecosystem (macOS and Linux)
-**[Plugin List](https://github.com/nextpad-plus-plus-plugins)** — the macOS and Linux plugin registry for Nextpad++<br>
-**[Plugin List](https://nextpad.org/plugins/)** — the macOS and Linux plugin registry for Nextpad++
+**[Plugin Repo](https://github.com/nextpad-plus-plus-plugins)** — Nextpad++ Plugin Repository<br>
+**[Plugin List](https://nextpad.org/plugins/)** — macOS and Linux plugin registry for Nextpad++
 
 ## Stats
 
