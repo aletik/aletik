@@ -28,7 +28,8 @@ Currently geeking out in open source software projects, working on agents and bu
 **[NextZip](https://github.com/nextpad-plus-plus-plugins/NextZip.macos)** — 7-Zip-powered archive manager for macOS (ZIP, 7z, TAR…)<br>
 **[Beads Viewer](https://github.com/nextpad-plus-plus/NppBeads)** — view, edit and sync Beads JSONL files and Dolt databases for multi-agent AI<br>
 
-### Plugins Ecosystem
+### Plugins Ecosystem (macOS and Linux)
+**[Plugin List](https://github.com/nextpad-plus-plus-plugins)** — the macOS and Linux plugin registry for Nextpad++
 **[Plugin List](https://nextpad.org/plugins/)** — the macOS and Linux plugin registry for Nextpad++
 
 ## Stats
