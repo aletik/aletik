@@ -12,8 +12,8 @@ Currently geeking out in open source software projects, working on agents and bu
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-![Downloads](https://img.shields.io/badge/Downloads-100K%2B-34C759?style=flat-square&logo=apple&logoColor=white)
-![Total Stars](https://img.shields.io/badge/Total_Stars-1%2C203-E3B341?style=flat-square&logo=github&logoColor=white)
+![Downloads](https://img.shields.io/badge/Downloads-200K%2B-34C759?style=flat-square&logo=apple&logoColor=white)
+![Total Stars](https://img.shields.io/badge/Total_Stars-1%2C384-E3B341?style=flat-square&logo=github&logoColor=white)
 ![Native macOS Apps](https://img.shields.io/badge/Native_macOS_Apps-3-438EFF?style=flat-square&logo=apple&logoColor=white)
 
 ## Start Here

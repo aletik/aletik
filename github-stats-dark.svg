@@ -11,15 +11,15 @@
   <!-- left column -->
   <circle cx="32" cy="82" r="4" fill="#3fb950"/>
   <text x="46" y="87" class="label">Downloads (all releases)</text>
-  <text x="250" y="87" class="value" text-anchor="end">100K+</text>
+  <text x="250" y="87" class="value" text-anchor="end">200K+</text>
 
   <circle cx="32" cy="116" r="4" fill="#e3b341"/>
   <text x="46" y="121" class="label">Total Stars</text>
-  <text x="250" y="121" class="value" text-anchor="end">1,203</text>
+  <text x="250" y="121" class="value" text-anchor="end">1,384</text>
 
   <circle cx="32" cy="150" r="4" fill="#8b949e"/>
   <text x="46" y="155" class="label">Public Repos</text>
-  <text x="250" y="155" class="value" text-anchor="end">48</text>
+  <text x="250" y="155" class="value" text-anchor="end">120</text>
 
   <line x1="270" y1="70" x2="270" y2="162" stroke="#30363d"/>
 
@@ -30,11 +30,11 @@
 
   <circle cx="292" cy="116" r="4" fill="#db61a2"/>
   <text x="306" y="121" class="label">Followers</text>
-  <text x="476" y="121" class="value" text-anchor="end">14</text>
+  <text x="476" y="121" class="value" text-anchor="end">19</text>
 
   <circle cx="292" cy="150" r="4" fill="#f85149"/>
   <text x="306" y="155" class="label">Contributions (1yr)</text>
-  <text x="476" y="155" class="value" text-anchor="end">1,107</text>
+  <text x="476" y="155" class="value" text-anchor="end">1,863</text>
 
-  <text x="28" y="187" class="foot">Updated June 2026 · downloads across all Nextpad++ releases (incl. removed)</text>
+  <text x="28" y="187" class="foot">Updated September 2026 · downloads across all Nextpad++ releases (incl. removed)</text>
 </svg>
