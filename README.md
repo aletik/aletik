@@ -18,7 +18,7 @@ Currently geeking out in open source software projects, working on agents and bu
 
 ## Start Here
 
-**[Nextpad++](https://nextpad.org/)** (200K+ downloads) — first full native macOS and Linux ports of Notepad++<br>
+**[Nextpad++](https://nextpad.org/)** (250K+ downloads) — first full native macOS and Linux ports of Notepad++<br>
 **[NextZip](https://nextpad.org/#nextzip)** — native 7-Zip-style archiver and WinZip alternative for Mac and Linux<br>
 **[Beads Viewer](https://nextpad.org/#beads)** — native issue & task tracker for multi-agent AI systems<p>
 
