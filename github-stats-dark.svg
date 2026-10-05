@@ -11,7 +11,7 @@
   <!-- left column -->
   <circle cx="32" cy="82" r="4" fill="#3fb950"/>
   <text x="46" y="87" class="label">Downloads (all releases)</text>
-  <text x="250" y="87" class="value" text-anchor="end">200K+</text>
+  <text x="250" y="87" class="value" text-anchor="end">250K+</text>
 
   <circle cx="32" cy="116" r="4" fill="#e3b341"/>
   <text x="46" y="121" class="label">Total Stars</text>
